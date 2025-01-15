@@ -6,8 +6,6 @@
 # Hi there! 👋 I'm a Senior Backend Developer
 
 I'm a passionate and experienced **Senior Backend Developer** specializing in **Python** and backend technologies such as **Django**, **Flask**, and **FastAPI**. 
-
-## Expertise:
 - **AWS Cloud**: Highly skilled in building, deploying, and maintaining scalable cloud infrastructure.
 - **Backend Development**: Expertise in designing and building high-performance systems, including **APIs**, **web scraping tools**, and **full-stack applications**.
 - **Database Management**: Proficient in working with various databases like **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis**.
