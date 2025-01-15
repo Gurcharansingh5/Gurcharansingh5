@@ -2,7 +2,8 @@
 
 # 🐍 Welcome to My GitHub Profile  
 
-I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
+## 🧠 Expertise in Python  
+I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
 
 ## 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
@@ -31,15 +32,9 @@ I’m passionate about **Python**, **metaprogramming**, and making programming m
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 
-
-## 🚀 My Main Project  
-### [futurecoder](https://github.com/username/futurecoder)  
-**futurecoder** is an interactive platform for self-learning Python, designed for absolute beginners. It integrates seamlessly with many of my other GitHub projects listed below.  
-
 ---
 
-## 🧠 Expertise in Python  
-I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  
+
 
 
 ### ⚠️ Enhanced Tracebacks  
