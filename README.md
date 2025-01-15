@@ -1,6 +1,6 @@
 ## 🐍 Welcome to My GitHub Profile 👋
-## 🎥 Video Preview
-[![Watch the video](https://via.placeholder.com/600x300.png?text=Click+to+Watch+Video)](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.mp4)
+[![Watch the video](https://staging30.tekkiwebsolutions.com/wp-content/uploads/gurcharan.png)](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.mp4)
+
 
 ## 🧠 Expertise in Python  
 I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
