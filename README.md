@@ -13,16 +13,6 @@ I’m passionate about **Python**, **metaprogramming**, and making programming m
 ## 🧠 Expertise in Python  
 I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  
 
-### 🐛 Debuggers  
-- **[birdseye](https://github.com/username/birdseye)** (⭐ 1.4k): A powerful debugger that lets you visualize the value of every individual expression.  
-  ![birdseye demo 1](link-to-demo-image1) ![birdseye demo 2](link-to-demo-image2)  
-
-- **[snoop](https://github.com/username/snoop)** (⭐ 462): A convenient and simple debugger that logs everything a function does.  
-  ![snoop demo](link-to-demo-image3)  
-  - Built on **[cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)** (⭐ 14.2k), where I’ve made significant contributions as a collaborator.  
-
-- **[heartrate](https://github.com/username/heartrate)** (⭐ 1.1k): Visualizes execution in real-time for dynamic insights.  
-  ![heartrate demo](link-to-demo-image4) ![heartrate stacktrace demo](link-to-demo-image5)  
 
 ### ⚠️ Enhanced Tracebacks  
 - Advanced tools to make tracebacks more insightful and actionable.  
