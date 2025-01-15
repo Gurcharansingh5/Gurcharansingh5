@@ -1,6 +1,5 @@
 ## 🐍 Welcome to My GitHub Profile 👋
-[![Watch the video](https://staging30.tekkiwebsolutions.com/wp-content/uploads/gurcharan.png)](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.mp4)
-
+![Profile Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.gif)
 
 # Hi there! 👋 I'm a Senior Backend Developer
 
