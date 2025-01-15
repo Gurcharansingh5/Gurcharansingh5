@@ -2,8 +2,7 @@
 [![Watch the video](https://staging30.tekkiwebsolutions.com/wp-content/uploads/gurcharan.png)](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.mp4)
 
 
-## 🧠 Expertise in Python  
-# Hi there! 👋 I'm a Senior Backend Developer
+# 🧠Hi there! 👋 I'm a Senior Backend Developer
 
 I'm a passionate and experienced **Senior Backend Developer** specializing in **Python** and backend technologies such as **Django**, **Flask**, and **FastAPI**. 
 - **AWS Cloud**: Highly skilled in building, deploying, and maintaining scalable cloud infrastructure.
