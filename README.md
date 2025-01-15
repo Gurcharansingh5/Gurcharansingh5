@@ -20,10 +20,6 @@ I specialize in extracting obscure but highly useful information from Python, cr
 ### ✨ Magic  
 - Innovative metaprogramming techniques that simplify complex workflows and amplify productivity.  
 
----
-
-## 🛠️ Other Tools & Interests  
-I also dabble in **Java**, **AWS**, **Ruby**, **Kotlin**, **Android**, and more!  
 
 ---
 
