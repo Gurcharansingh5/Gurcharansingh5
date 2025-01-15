@@ -1,6 +1,6 @@
-## Hi there 👋
+## 🐍 Welcome to My GitHub Profile 👋
 
-# 🐍 Welcome to My GitHub Profile  
+#   
 
 ## 🧠 Expertise in Python  
 I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
