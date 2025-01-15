@@ -49,14 +49,6 @@ I specialize in extracting obscure but highly useful information from Python, cr
 ## 📫 Let’s Connect  
 I’m always eager to share ideas, collaborate on exciting projects, or discuss anything Python and beyond. Let’s build something incredible together!  
 
-
----
-
-## 🔗 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/kittinan)  
-🌐 [Portfolio Website](https://kittinan.com)  
-📧 [Email Me](mailto:kittinan@example.com)  
-
 ---
 
 ⭐ **Keep exploring, innovating, and building amazing things together!** 🚀  
