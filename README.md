@@ -81,23 +81,24 @@ Let's connect and collaborate on exciting backend projects!
 
 ---
 
+## 📈 Notable Projects:
 
+**Dropbox & Facebook Marketing API Integration:**
+Integrated **Dropbox** and **Facebook** APIs for file uploads and managing ad campaigns programmatically, improving workflow efficiency and automation.
 
+**B2B Marketplace Platform:**
+Built a **B2B marketplace** platform using **Django**, implementing seamless offline capabilities, user profile management, order processing, payment systems, and product listings, ensuring smooth business operations.
 
-### ⚠️ Enhanced Tracebacks  
-- Advanced tools to make tracebacks more insightful and actionable.  
+**Healthcare-Tech Startup:**
+Developed backend **APIs** for a **healthcare-tech startup**, ensuring **scalability** and secure integration with various medical data sources, improving operational effectiveness and data handling.
 
-### ✨ Magic  
-- Innovative metaprogramming techniques that simplify complex workflows and amplify productivity.  
+## 🔑 Why Work With Me?
 
+- **Quick and reliable communication**: Always available for quick chats and resolving queries.
+- **Quality-driven, budget-friendly solutions**: Providing the best solutions that fit your budget without compromising quality.
+- **Focused on long-term client success**: My goal is to build lasting relationships and deliver scalable solutions.
 
----
+With a focus on **performance**, **scalability**, and **security**, I deliver backend solutions that drive results. Let’s collaborate and build something awesome!
 
-## 📫 Let’s Connect  
-I’m always eager to share ideas, collaborate on exciting projects, or discuss anything Python and beyond. Let’s build something incredible together!  
-
----
-
-⭐ **Keep exploring, innovating, and building amazing things together!** 🚀  
 
 
