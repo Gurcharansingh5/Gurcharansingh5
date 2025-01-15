@@ -26,3 +26,27 @@ I specialize in extracting obscure but highly useful information from Python, cr
 ## 📫 Let’s Connect  
 I’m always eager to share ideas, collaborate on exciting projects, or discuss anything Python and beyond. Let’s build something incredible together!  
 
+
+# 👋 Welcome to Kittinan's GitHub Profile!  
+
+## 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+
+---
+
+## 📊 GitHub Stats  
+![Kittinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kittinan&layout=compact&theme=radical)  
+
+---
+
+## 🔗 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/kittinan)  
+🌐 [Portfolio Website](https://kittinan.com)  
+📧 [Email Me](mailto:kittinan@example.com)  
+
+---
+
+⭐ **Keep exploring, innovating, and building amazing things together!** 🚀  
+
+
