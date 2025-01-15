@@ -15,7 +15,6 @@ I’m passionate about **Python**, **metaprogramming**, and making programming m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ---
 
@@ -54,12 +53,6 @@ I specialize in extracting obscure but highly useful information from Python, cr
 
 ## 📫 Let’s Connect  
 I’m always eager to share ideas, collaborate on exciting projects, or discuss anything Python and beyond. Let’s build something incredible together!  
-
-
-# 👋 Welcome to Kittinan's GitHub Profile!  
-
-
----
 
 
 ---
