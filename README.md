@@ -4,9 +4,9 @@
 
 I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
 
-## 📊 GitHub Stats  
-![Kittinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kittinan&layout=compact&theme=radical)  
+## 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+
 
 
 ## 🚀 My Main Project  
@@ -34,8 +34,6 @@ I’m always eager to share ideas, collaborate on exciting projects, or discuss 
 
 # 👋 Welcome to Kittinan's GitHub Profile!  
 
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
 
 ---
 
