@@ -3,7 +3,18 @@
 
 
 ## 🧠 Expertise in Python  
-I specialize in extracting obscure but highly useful information from Python, creating tools that simplify debugging, enhance tracebacks, and bring programming magic to life.  I’m passionate about **Python**, **metaprogramming**, and making programming more accessible and enjoyable.  
+# Hi there! 👋 I'm a Senior Backend Developer
+
+I'm a passionate and experienced **Senior Backend Developer** specializing in **Python** and backend technologies such as **Django**, **Flask**, and **FastAPI**. 
+
+## Expertise:
+- **AWS Cloud**: Highly skilled in building, deploying, and maintaining scalable cloud infrastructure.
+- **Backend Development**: Expertise in designing and building high-performance systems, including **APIs**, **web scraping tools**, and **full-stack applications**.
+- **Database Management**: Proficient in working with various databases like **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis**.
+- **Cloud Deployment**: Extensive experience deploying solutions on **AWS** infrastructure.
+
+Let's connect and collaborate on exciting backend projects!
+
 
 ## 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
