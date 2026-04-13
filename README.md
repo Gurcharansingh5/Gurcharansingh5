@@ -13,7 +13,7 @@ Let's connect and collaborate on exciting backend projects!
 
 
 ## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kittinan&theme=radical&no-frame=true&margin-w=15&margin-h=15)  
+![GitHub Trophies](https://www.tekkiwebsolutions.com/wp-content/uploads/GitHub-1-e1776080761287.png)  
 
 
 ## 🔧 Technologies & Tools:
