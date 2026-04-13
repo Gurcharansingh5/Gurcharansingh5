@@ -13,7 +13,7 @@ Let's connect and collaborate on exciting backend projects!
 
 
 ## 🏆 GitHub Achievements  
-![GitHub Trophies](https://www.tekkiwebsolutions.com/wp-content/uploads/GitHub-1-e1776080761287.png)  
+![GitHub Trophies](https://www.tekkiwebsolutions.com/wp-content/uploads/GitHub-achievement-trophy-icons-collection-e1776081049935.png)  
 
 
 ## 🔧 Technologies & Tools:
