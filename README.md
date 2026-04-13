@@ -1,5 +1,4 @@
 ## 🐍 Welcome to My GitHub Profile 👋
-![Profile Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/profile3.gif)
 
 # Hi there! 👋 I'm a Senior Backend Developer
 
